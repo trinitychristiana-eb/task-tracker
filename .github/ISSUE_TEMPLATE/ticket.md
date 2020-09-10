@@ -8,10 +8,14 @@ assignees: trintiychristiana-eb
 ---
 
 - [ ] Solve Ticket
-   - [ ] Steps to solving ticket
-   - [ ] STEP
-   - [ ] STEP
+   - [ ] STEP_TO_SOLVING_TICKET
+   - [ ] STEP_TO_SOLVING_TICKET
+   - [ ] STEP_TO_SOLVING_TICKET
 - [ ] Create PR
 - [ ] Put PR in #seo-needs-you
+- [ ] Get Reviews
+   - [ ] Delaine
+   - [ ] Justin
+   - [ ] Olivia
 - [ ] Merge it
 - [ ] Say ready for QA in #seo-needs-you
