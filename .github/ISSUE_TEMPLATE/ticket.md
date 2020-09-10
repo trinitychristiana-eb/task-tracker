@@ -11,7 +11,7 @@ assignees: trintiychristiana-eb
    - [ ] STEP_TO_SOLVING_TICKET
    - [ ] STEP_TO_SOLVING_TICKET
    - [ ] STEP_TO_SOLVING_TICKET
-- [ ] Create PR
+- [ ] [Create PR]()
 - [ ] Put PR in #seo-needs-you
 - [ ] Get Reviews
    - [ ] Delaine
