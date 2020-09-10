@@ -9,8 +9,8 @@ assignees: trintiychristiana-eb
 
 - [ ] Solve Ticket
    - [ ] Steps to solving ticket
-   - [ ] 
-   - [ ] 
+   - [ ] STEP
+   - [ ] STEP
 - [ ] Create PR
 - [ ] Put PR in #seo-needs-you
 - [ ] Merge it

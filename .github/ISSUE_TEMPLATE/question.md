@@ -7,7 +7,4 @@ assignees: trintiychristiana-eb
 
 ---
 
-Question: 
-
-
-Answer:
+# Question:

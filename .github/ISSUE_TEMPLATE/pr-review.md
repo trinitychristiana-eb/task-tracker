@@ -7,6 +7,6 @@ assignees: trintiychristiana-eb
 
 ---
 
-*Ticket/QA steps*: [EB-JIRA_ID](JIRA_URL)
-*PR*: 
-*Additional Comments*:
+**Ticket/QA steps**: [EB-JIRA_ID](JIRA_URL)
+**PR**: 
+**Additional Comments**:
