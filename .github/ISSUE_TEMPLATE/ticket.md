@@ -7,7 +7,7 @@ assignees: trintiychristiana-eb
 
 ---
 
-[Jira Link](url)
+[Jira Link](https://jira.evbhome.com/browse/EB-JIRA_ID)
 - [ ] Solve Ticket
    - [ ] STEP_TO_SOLVING_TICKET
    - [ ] STEP_TO_SOLVING_TICKET
