@@ -7,6 +7,7 @@ assignees: trintiychristiana-eb
 
 ---
 
+[Jira Link](url)
 - [ ] Solve Ticket
    - [ ] STEP_TO_SOLVING_TICKET
    - [ ] STEP_TO_SOLVING_TICKET
